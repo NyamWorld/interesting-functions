@@ -11,5 +11,5 @@ function countSpecificWord(str, word) {
   return count;
 }
 
-// example: console.log(countSpecificWord('Hello World','HW'))
+// example: console.log(countSpecificWord('Hello World','hw'))
 // >> 2
