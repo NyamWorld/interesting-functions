@@ -1,8 +1,8 @@
 // 문자열을 뒤집어 출력하는 코드
 
-function flipWord(word) {
+function flipWords(word) {
   return word.split("").reverse().join("");
 }
 
-// example: console.log(flipWord('asdf'))
+// example: console.log(flipWords('asdf'))
 // >> fdsa
