@@ -12,4 +12,6 @@ function isPrime(n) {
   return true;
 }
 
+// example: console.log(isPrime(5))
+// >> true
 
